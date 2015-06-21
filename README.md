@@ -84,6 +84,7 @@ Raw data transformation produces a tidy data set that includes both the training
 [80] "mean.fBodyBodyGyroJerkMag.std..."
 [81] "mean.fBodyBodyGyroJerkMag.meanFreq..."
 
+
 # Transformations on raw data
 Part 1: Merge the training and the test sets to create one data set.
 
