@@ -9,21 +9,13 @@ Raw data transformation produces a tidy data set that includes both the training
 [4] "mean.tBodyAcc.mean...Y."
 [5] "mean.tBodyAcc.mean...Z."
 [6] "mean.tBodyAcc.std...X."
-
 [7] "mean.tBodyAcc.std...Y."
-
 [8] "mean.tBodyAcc.std...Z."
-
 [9] "mean.tGravityAcc.mean...X."
-
 [10] "mean.tGravityAcc.mean...Y."
-
 [11] "mean.tGravityAcc.mean...Z."
-
 [12] "mean.tGravityAcc.std...X."
-
 [13] "mean.tGravityAcc.std...Y."
-
 [14] "mean.tGravityAcc.std...Z."
 [15] "mean.tBodyAccJerk.mean...X."
 [16] "mean.tBodyAccJerk.mean...Y."
@@ -85,7 +77,8 @@ Raw data transformation produces a tidy data set that includes both the training
 [72] "mean.fBodyAccMag.meanFreq..."
 [73] "mean.fBodyBodyAccJerkMag.mean..."
 [74] "mean.fBodyBodyAccJerkMag.std..."
-[75] "mean.fBodyBodyAccJerkMag.meanFreq..." [76] "mean.fBodyBodyGyroMag.mean..."
+[75] "mean.fBodyBodyAccJerkMag.meanFreq..." 
+[76] "mean.fBodyBodyGyroMag.mean..."
 [77] "mean.fBodyBodyGyroMag.std..."
 [78] "mean.fBodyBodyGyroMag.meanFreq..."
 [79] "mean.fBodyBodyGyroJerkMag.mean..."
