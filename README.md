@@ -4,15 +4,10 @@ A full description of raw data can be found here: http://archive.ics.uci.edu/ml/
 Raw data transformation produces a tidy data set that includes both the training and test data sets. Feature names with the format "mean.X" are the avg of the feature X grouped by "Activity" and "Subject". the tidy data set contains the following features:
 
 [1] "Activity"
-
 [2] "Subject"
-
 [3] "mean.tBodyAcc.mean...X."
-
 [4] "mean.tBodyAcc.mean...Y."
-
 [5] "mean.tBodyAcc.mean...Z."
-
 [6] "mean.tBodyAcc.std...X."
 
 [7] "mean.tBodyAcc.std...Y."
