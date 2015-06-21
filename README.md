@@ -90,7 +90,7 @@ Raw data transformation produces a tidy data set that includes both the training
 Part 1: Merge the training and the test sets to create one data set.
 * Training/Test measurements are read into different variables.
 * Merging (making a union) of both sets using rbind.
-* 
+
 Part 2: Extracts only the measurements on the mean and standard deviation for each measurement.
 * Features indices are read into a matrix[idx,featureName]
 * Features are filtered using grep containing "mean" or "std"
